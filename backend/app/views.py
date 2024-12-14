@@ -23,12 +23,13 @@ class SubcategoryPage(APIView):
             return Response({"error": f"Category '{category_name}' not found"}, status=status.HTTP_404_NOT_FOUND)
         
         # Get distinct subcategories for the given category
-        subcategories = Subcategory.objects.filter(category=category).values_list('name', flat=True)
+        subcategories = Subcategory.objects.filter(category=category).values_list('name', flat=True).distinct()
 
         if not subcategories:
             return Response({"error": f"No subcategories found for category '{category_name}'"}, status=status.HTTP_404_NOT_FOUND)
         
         return Response({"subcategories": subcategories}, status=status.HTTP_200_OK)
+
 
 # Endpoint 3: Topic Page (e.g., specific topics like "Newton's Laws of Motion" in Physics)
 class TopicPage(APIView):

@@ -3,9 +3,9 @@ from django.db import models
 class Category(models.Model):
     CATEGORY_CHOICES = [
         ('Science', 'Science'),
+        ('Mathematics', 'Mathematics'),
         ('Technology', 'Technology'),
         ('Engineering', 'Engineering'),
-        ('Mathematics', 'Mathematics'),
     ]
     
     name = models.CharField(max_length=50, choices=CATEGORY_CHOICES)

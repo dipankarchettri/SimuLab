@@ -6,6 +6,5 @@ urlpatterns = [
     path('categories/<str:category_name>/subcategories/', SubcategoryPage.as_view(), name='subcategory_page'),
     path('categories/<str:category_name>/subcategories/<str:subcategory_name>/topics/', TopicPage.as_view(), name='topic_page'),
     # Add a new URL pattern for topics directly if needed
-    path('topics/<str:category>/<str:subcategory>/', TopicPage.as_view(), name='topic_page_by_url'),
 ]
 
