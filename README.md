@@ -2,6 +2,11 @@
 
 SimuLab is an interactive web application designed to visualize and simulate various scientific and mathematical concepts in an engaging way. With a focus on STEM (Science, Technology, Engineering, and Mathematics) education, SimuLab provides dynamic simulations for concepts such as projectile motion, sorting algorithms, pendulum motion, gravitational forces, and more.
 
+- **Accessibility:** SimuLab ensures that educational content is easily accessible through interactive simulations, which do not require high-end devices or constant internet access, making it suitable for a wide range of learners.
+- **Scalability:** SimuLab is designed with scalability in mind, allowing for easy expansion with new topics and simulations, accommodating a growing user base across different regions.
+- **Cost-effectiveness:** SimuLab offers free access to essential content, with additional features available at an affordable price, reducing the need for costly educational resources and making it accessible to students with limited financial means.
+- **Social impact:** SimuLab provides an inclusive learning experience that benefits students in remote or underserved areas, empowering them to access quality educational resources and improve their academic performance regardless of their circumstances.
+
 ## Features
 
 - **Interactive Simulations**: Visualize physics and mathematical concepts such as projectile motion, pendulum motion, gravitational forces, and 3D graphing.
