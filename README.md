@@ -16,7 +16,7 @@ SimuLab is an interactive web application designed to visualize and simulate var
    - Visualize the trajectory of a projectile based on its initial velocity, angle, and gravitational force.
    - Parameters: Initial velocity, launch angle, gravity.
    
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iDX4DCkM87c/0.jpg)](https://www.youtube.com/watch?v=iDX4DCkM87c)
+   [![IMAGE ALT TEXT HERE](https://github.com/dipankarchettri/SimuLab/blob/main/images/projectile.png)](https://github.com/dipankarchettri/SimuLab/blob/main/images/React%20App.mp4)
 
 2. **Pendulum Motion**
    - Simulate the motion of a pendulum under the influence of gravity.
