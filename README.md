@@ -16,31 +16,28 @@ SimuLab is an interactive web application designed to visualize and simulate var
    - Visualize the trajectory of a projectile based on its initial velocity, angle, and gravitational force.
    - Parameters: Initial velocity, launch angle, gravity.
    
-   ![Projectile Motion](./images/projectile-motion.png)
+   ![Projectile Motion](./images/projectile.png)
 
 2. **Pendulum Motion**
    - Simulate the motion of a pendulum under the influence of gravity.
    - Parameters: Length of the pendulum, gravitational force.
-   
-   ![Pendulum Motion](./images/pendulum-motion.png)
 
 3. **Gravitational Force**
    - Visualize the gravitational force between two masses (e.g., Earth and the Moon) based on their mass and distance apart.
    - Parameters: Mass of both objects, distance between them, gravitational constant.
    
-   ![Gravitational Force](./images/gravitational-force.png)
 
 4. **3D Graphing**
    - Plot 3D mathematical functions.
    - Parameters: Mathematical function (e.g., x^2 + y^2), x and y ranges, resolution.
    
-   ![3D Graphing](./images/3d-graphing.png)
+   ![3D Graphing](./images/graph.png)
 
 5. **Sorting Algorithms**
    - Visualize sorting algorithms such as Bubble Sort and Insertion Sort, with real-time updates on array states.
    - Parameters: Array values (for sorting).
    
-   ![Sorting Algorithms](./images/sorting-algorithms.png)
+   ![Sorting Algorithms](./images/sort.png)
 
 ## Getting Started
 
