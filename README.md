@@ -16,7 +16,7 @@ SimuLab is an interactive web application designed to visualize and simulate var
    - Visualize the trajectory of a projectile based on its initial velocity, angle, and gravitational force.
    - Parameters: Initial velocity, launch angle, gravity.
    
-   ![Projectile Motion](./images/projectile.png)
+   ![Projectile Motion](./images/React App.mp4)
 
 2. **Pendulum Motion**
    - Simulate the motion of a pendulum under the influence of gravity.
@@ -37,7 +37,7 @@ SimuLab is an interactive web application designed to visualize and simulate var
    - Visualize sorting algorithms such as Bubble Sort and Insertion Sort, with real-time updates on array states.
    - Parameters: Array values (for sorting).
    
-   ![Sorting Algorithms](./images/sort.png)
+   ![Sorting Algorithms Video](./images/React App1.mp4)
 
 ## Getting Started
 
