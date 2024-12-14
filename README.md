@@ -37,7 +37,7 @@ SimuLab is an interactive web application designed to visualize and simulate var
    - Visualize sorting algorithms such as Bubble Sort and Insertion Sort, with real-time updates on array states.
    - Parameters: Array values (for sorting).
    
-   ![Sorting Algorithms Video](./images/React App1.mp4)
+   ![Sorting Algorithms Video](https://github.com/dipankarchettri/SimuLab/blob/main/images/sort.png)](https://github.com/dipankarchettri/SimuLab/blob/main/images/React%20App1.mp4)
 
 ## Getting Started
 
