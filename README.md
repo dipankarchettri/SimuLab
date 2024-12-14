@@ -44,33 +44,41 @@ To run SimuLab locally, follow these steps:
 ### Installing
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/dipankarchettri/SimuLab.git
+    ```bash
+    git clone https://github.com/dipankarchettri/SimuLab.git
+    ```
 
-2.Navigate into the project folder:
+2. Navigate into the project folder:
     ```bash
     cd SimuLab
+    ```
 
-3.Install the dependencies:
+3. Install the dependencies:
+    ```bash
     npm install
+    ```
 
-4.Run the development server:
+4. Run the development server:
     ```bash
     npm start
-    This will launch the application on http://localhost:3000 by default.
+    ```
 
+    This will launch the application on `http://localhost:3000` by default.
+
+## Contributing
 
 Contributions are welcome! If you'd like to contribute to SimuLab, feel free to fork the repository and create a pull request. Here’s how you can help:
 
-Fix bugs or issues
-Improve the UI/UX
-Add more simulations and visualizations
-Improve documentation
+- Fix bugs or issues
+- Improve the UI/UX
+- Add more simulations and visualizations
+- Improve documentation
+
 Please make sure to follow the existing code style and write clear, concise commit messages.
 
+## Contact
 
-### Contact
 For any questions or feedback, feel free to reach out to me directly:
 
-Email: dipankarchettri12345@gmail.com
-GitHub: @dipankarchettri
+- **Email**: dipankarchettri12345@gmail.com
+- **GitHub**: [@dipankarchettri](https://github.com/dipankarchettri)
