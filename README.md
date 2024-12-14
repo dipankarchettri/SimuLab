@@ -47,7 +47,7 @@ To run SimuLab locally, follow these steps:
 
 - **Node.js** (v14 or higher)
 - **npm** (Node Package Manager)
-- *"python** (v3 or higher)
+- **python** (v3 or higher)
 
 ### Installing
 
